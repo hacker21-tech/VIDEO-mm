@@ -1,0 +1,6 @@
+{
+  "name": "OmniSync",
+  "description": "Cross-platform cloud synchronization tool with biometric auth, dashboard, and offline access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
